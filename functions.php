@@ -1,5 +1,7 @@
 <?php
-
+/**
+* @link https://generatewp.com/
+*/
 // Register REST API endpoints
 class GenerateWP_Custom_REST_API_Endpoints {
 
